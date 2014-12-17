@@ -3,10 +3,8 @@
 This is the first file in this repo.
 
 
-## Ipsum Below
+## Website Contents
 
 whatever you want type below
-
-
 
 test
